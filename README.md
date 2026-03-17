@@ -15,8 +15,8 @@ A clinical decision support system that helps healthcare professionals detect an
 
 ## 🚀 Live Demo
 - **Frontend:** [https://jaundice-frontend.onrender.com](https://jaundice-frontend.onrender.com)
-- **Backend API:** [https://jaundice-backend.onrender.com](https://jaundice-backend-xbwq.onrender.com)
-- **API Docs:** [https://jaundice-backend.onrender.com/docs](https://jaundice-backend-xbwq.onrender.com/docs)
+- **Backend API:** [https://jaundice-backend-xbwq.onrender.com](https://jaundice-backend-xbwq.onrender.com)
+- **API Docs:** [https://jaundice-backend-xbwq.onrender.com/docs](https://jaundice-backend-xbwq.onrender.com/docs)
 
 ## ✨ Features
 - ✅ Instant jaundice detection & severity classification
