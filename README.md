@@ -39,6 +39,19 @@ A clinical decision support system that helps healthcare professionals detect an
 - **Visualization:** Plotly
 - **Deployment:** Render
 
+
+🧪 Test Cases
+Case	Bilirubin	Expected Result
+Severe	15.0 mg/dL	Severe Jaundice
+Moderate	7.5 mg/dL	Moderate Jaundice
+Mild	2.5 mg/dL	Mild Jaundice
+None	0.8 mg/dL	No Jaundice
+
+⚠️ Disclaimer
+For clinical decision support only. Always consult healthcare providers.
+
+<div align="center"> Made with ❤️ for healthcare professionals </div> ```
+
 ## 🚀 Quick Test
 ```bash
 curl -X POST https://jaundice-backend.onrender.com/predict \
@@ -55,16 +68,4 @@ curl -X POST https://jaundice-backend.onrender.com/predict \
     "wbc_count": 7.5,
     "platelet_count": 250
   }'
-
-🧪 Test Cases
-Case	Bilirubin	Expected Result
-Severe	15.0 mg/dL	Severe Jaundice
-Moderate	7.5 mg/dL	Moderate Jaundice
-Mild	2.5 mg/dL	Mild Jaundice
-None	0.8 mg/dL	No Jaundice
-
-⚠️ Disclaimer
-For clinical decision support only. Always consult healthcare providers.
-
-<div align="center"> Made with ❤️ for healthcare professionals </div> ```
 
