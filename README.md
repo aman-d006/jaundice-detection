@@ -5,7 +5,7 @@
 ### AI-Powered Clinical Decision Support System
   
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render)](https://jaundice-frontend.onrender.com)
-[![API](https://img.shields.io/badge/API-FastAPI-blue?style=for-the-badge&logo=fastapi)](https://jaundice-backend.onrender.com)
+[![API](https://img.shields.io/badge/API-FastAPI-blue?style=for-the-badge&logo=fastapi)](https://jaundice-backend-xbwq.onrender.com)
 [![Made with](https://img.shields.io/badge/Made%20with-Python-blue?style=for-the-badge&logo=python)](https://python.org)
 
 </div>
